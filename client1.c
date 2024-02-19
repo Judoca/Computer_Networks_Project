@@ -1,4 +1,4 @@
-/*
+/* 
  * CLIENT STEPS:
  *
  * - create a TCP socket
